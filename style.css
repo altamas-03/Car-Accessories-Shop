@@ -93,21 +93,21 @@ justify-content:space-between;
     margin-bottom: 20px;
 }
 
-.btn{
-display:inline-block;
-padding:12px 25px;
-background:#ff2b2b;
-color:#fff;
-text-decoration:none;
-border-radius:30px;
-font-weight:bold;
-transition:.3s;
-margin-top:auto;
+
+.service-btn {
+    display: inline-block;
+    background: #ff0000;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
 }
 
-.btn:hover{
-background:#fff;
-color:#ff2b2b;
+.service-btn:hover {
+    background: #ffffff;
+    color: #ff0000;
 }
 
 /* Responsive */
